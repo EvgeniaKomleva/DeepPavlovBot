@@ -1,0 +1,7 @@
+Hello	Maybe want credit?
+suggest_credit	Maybe want credit?
+suggest_money	Maybe want money?
+suggest_cycling	Ask once more
+good_bye	Bye!
+bad_bye		Good lack!
+about_credit	Which credit?

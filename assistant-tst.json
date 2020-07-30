@@ -1,0 +1,22 @@
+[
+  [
+    {
+      "speaker": 1,
+      "text": "Hi"
+    },
+    {
+      "speaker": 2,
+      "text": "Hello, whant credit??",
+      "act": "Hello"
+    },
+    {
+      "speaker": 1,
+      "text": "No"
+    },
+    {
+      "speaker": 2,
+      "text": "Good bye!",
+      "act": "good_bye"
+    }
+  ]
+]

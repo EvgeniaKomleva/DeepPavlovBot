@@ -1,0 +1,31 @@
+[
+  [
+    {
+      "speaker": 1,
+      "text": "Good morning"
+    },
+    {
+      "speaker": 2,
+      "text": "Hello, whant credit??",
+      "act": "Hello"
+    },
+    {
+      "speaker": 1,
+      "text": "No"
+    },
+    {
+      "speaker": 2,
+      "text": "Maybe you want coins?",
+      "act": "about_credit"
+    },
+    {
+      "speaker": 1,
+      "text": "Yes"
+    },
+    {
+      "speaker": 2,
+      "text": "Something about it",
+      "act": "bad_bye"
+    }
+  ]
+]
